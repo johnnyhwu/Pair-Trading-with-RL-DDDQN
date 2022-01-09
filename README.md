@@ -1,4 +1,4 @@
-# Pair-Trading-with-DDDQN
+# Pair-Trading-with-RL-DDDQN
 
 ## Description
 Optimize pair trading performance with reinforcement learning algorithm (DDQN and DDDQN).
