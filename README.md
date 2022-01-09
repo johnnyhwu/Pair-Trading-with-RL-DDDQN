@@ -30,5 +30,5 @@ All scripts are written in jupyter notebook, you can run it on [colab](https://c
 
 You may use these resources to uderstand this project.
 
-- Presentation (Slide, Video)
-- Report
+- Presentation ([Slide](https://github.com/johnnyhwu/Pair-Trading-with-RL-DDDQN/blob/main/slide.pdf), [Video](https://youtu.be/n0lTbl0Thq0))
+- [Report](https://github.com/johnnyhwu/Pair-Trading-with-RL-DDDQN/blob/main/report.pdf)
